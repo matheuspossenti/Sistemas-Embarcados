@@ -9,7 +9,7 @@ int a;
 
 void setup() {
   myservo.attach(9);
-  myservo2.attach(11);''
+  myservo2.attach(11);
   pinMode(2, INPUT);
   pinMode(3, INPUT);
 }
