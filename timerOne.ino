@@ -23,7 +23,7 @@ void loop() {
 }
 
 void timer() {
-  digitalWrite(13, !digitalRead(13));
+  digitalWrite(13, !digitalRead(13)); 
   agora++;
   geral++;
 }
